@@ -25,6 +25,7 @@
 - [Fettah Aud](https://github.com/FettahAud)
 - [Jeffrey Chao](https://github.com/jchaodubs)
 - [Ethan]
+- [Ananda]
 - [Vishesh Rathi](https://github.com/rathi710)
 - [Denys Makene](https://github.com/Denysmak)
 - [Beki Drobs](https://github.com/Beki-D)
